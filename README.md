@@ -1,2 +1,2 @@
 #  craps-game
-placeholder
+For programming 2 class
